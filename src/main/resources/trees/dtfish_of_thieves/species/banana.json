@@ -1,0 +1,39 @@
+{
+  "type": "palm",
+  "family": "dtfish_of_thieves:banana",
+  "tapering": 0.6,
+  "signal_energy": 5.0,
+  "growth_rate": 0.6,
+  "max_branch_radius": 6,
+  "leaves_properties": "dtfish_of_thieves:banana",
+  "generate_seed": true,
+  "generate_sapling": true,
+  "environment_factors" : {
+    "cold": 0.75,
+    "dry": 0.75,
+    "hot": 1.1
+  },
+  "seasonal_fruiting_offset": 0.5,
+  "inherit_fruiting_offset_to_fruits": true,
+  "perfect_biomes": { "name": "fishofthieves:tropical_island" },
+  "primitive_saplings": [
+    { "sapling_block": "fishofthieves:banana_shoots" },
+    {
+      "sapling_item": "fishofthieves:banana",
+      "can_craft_seed_to_sapling": false
+    }
+  ],
+  "sapling_shape": "dtfish_of_thieves:banana_sapling",
+  "fruits": [
+    "dtfish_of_thieves:banana"
+  ],
+  "features": [
+    {
+      "name": "dtfish_of_thieves:banana_fruit",
+      "properties": {
+        "fruit": "dtfish_of_thieves:banana",
+        "fruiting_radius": 4
+      }
+    }
+  ]
+}

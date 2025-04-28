@@ -1,0 +1,7 @@
+{
+  "loader": "dynamictrees:branch",
+  "textures": {
+    "bark": "fishofthieves:block/coconut_log",
+    "rings": "fishofthieves:block/coconut_log_top"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "palm",
+  "common_leaves": "dtfish_of_thieves:coconut",
+  "common_species": "dtfish_of_thieves:coconut",
+  "primitive_log": "fishofthieves:coconut_log",
+  "generate_stripped_branch": true,
+  "max_branch_radius": 8,
+  "primary_thickness": 3,
+  "secondary_thickness": 3
+}

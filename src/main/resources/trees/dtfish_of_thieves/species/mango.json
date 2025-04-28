@@ -1,0 +1,36 @@
+{
+  "family": "oak",
+  "tapering": 0.2,
+  "signal_energy": 10.0,
+  "up_probability": 3,
+  "lowest_branch_height": 3,
+  "growth_rate": 1.2,
+  "leaves_properties": "dtfish_of_thieves:mango",
+  "generate_seed": true,
+  "generate_sapling": true,
+  "environment_factors" : {
+
+  },
+  "seasonal_fruiting_offset": 0.5,
+  "inherit_fruiting_offset_to_fruits": true,
+  "perfect_biomes": { "name": "fishofthieves:tropical_island" },
+  "primitive_saplings": [
+    { "sapling_block": "fishofthieves:mango_pit" },
+    {
+      "sapling_item": "fishofthieves:mango",
+      "can_craft_seed_to_sapling": false
+    }
+  ],
+  "fruits": [
+    "dtfish_of_thieves:mango"
+  ],
+  "features": [
+    {
+      "name": "fruit",
+      "properties": {
+        "fruit": "dtfish_of_thieves:mango",
+        "fruiting_radius": 6
+      }
+    }
+  ]
+}

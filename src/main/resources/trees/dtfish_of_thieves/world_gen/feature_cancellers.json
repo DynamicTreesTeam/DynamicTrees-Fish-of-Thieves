@@ -1,0 +1,18 @@
+[
+  {
+    "__comment": "Cancel standard tree features.",
+    "select": { "name": "fishofthieves:tropical_island", "tag": "#minecraft:is_overworld" },
+    "cancellers": {
+      "type": "tree",
+      "namespaces": ["fishofthieves", "minecraft"]
+    }
+  },
+  {
+    "__comment": "Cancel standard tree features.",
+    "select": { "tags": ["#is_beach", "#minecraft:is_overworld"] },
+    "cancellers": {
+      "type": "tree",
+      "namespaces": ["fishofthieves", "minecraft"]
+    }
+  }
+]

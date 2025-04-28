@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "condition": "dynamictrees:voluntary_seed_drop_chance",
+              "rarity": 1.0
+            }
+          ],
+          "name": "dtfish_of_thieves:banana_seed"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "dtfish_of_thieves:trees/voluntary/banana"
+}

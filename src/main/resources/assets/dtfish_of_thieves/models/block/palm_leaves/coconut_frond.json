@@ -1,0 +1,6 @@
+{
+  "loader": "dynamictrees:large_palm_fronds",
+  "textures": {
+    "frond": "dtfish_of_thieves:block/palm_leaves/coconut_frond"
+  }
+}

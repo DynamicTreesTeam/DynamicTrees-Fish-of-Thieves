@@ -1,0 +1,9 @@
+{
+  "common_leaves": "dtfish_of_thieves:banana",
+  "common_species": "dtfish_of_thieves:banana",
+  "primitive_log": "fishofthieves:banana_stem",
+  "generate_stripped_branch": false,
+  "max_branch_radius": 6,
+  "primary_thickness": 3,
+  "secondary_thickness": 3
+}

@@ -1,0 +1,27 @@
+{
+  "type": "dtfish_of_thieves:falling_palm",
+  "item_stack": "fishofthieves:coconut",
+  "max_age": 2,
+  "block_shapes": {
+    "east": [
+      { "function": "pod", "parameters": { "radius": 3, "height": 6, "stem_length": 2, "side_offset": 7, "side": "east" } },
+      { "function": "pod", "parameters": { "radius": 4, "height": 8, "stem_length": 2, "side_offset": 6, "side": "east" } },
+      { "function": "pod", "parameters": { "radius": 5.5, "height": 11, "stem_length": 2, "side_offset": 4.5, "side": "east" } }
+    ],
+    "west": [
+      { "function": "pod", "parameters": { "radius": 3, "height": 6, "stem_length": 2, "side_offset": 7, "side": "west" } },
+      { "function": "pod", "parameters": { "radius": 4, "height": 8, "stem_length": 2, "side_offset": 6, "side": "west" } },
+      { "function": "pod", "parameters": { "radius": 5.5, "height": 11, "stem_length": 2, "side_offset": 4.5, "side": "west" } }
+    ],
+    "north": [
+      { "function": "pod", "parameters": { "radius": 3, "height": 6, "stem_length": 2, "side_offset": 7, "side": "north" } },
+      { "function": "pod", "parameters": { "radius": 4, "height": 8, "stem_length": 2, "side_offset": 6, "side": "north" } },
+      { "function": "pod", "parameters": { "radius": 5.5, "height": 11, "stem_length": 2, "side_offset": 4.5, "side": "north" } }
+    ],
+    "south": [
+      { "function": "pod", "parameters": { "radius": 3, "height": 6, "stem_length": 2, "side_offset": 7, "side": "south" } },
+      { "function": "pod", "parameters": { "radius": 4, "height": 8, "stem_length": 2, "side_offset": 6, "side": "south" } },
+      { "function": "pod", "parameters": { "radius": 5.5, "height": 11, "stem_length": 2, "side_offset": 4.5, "side": "south" } }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "death.attack.dtfish_of_thieves.falling_fruit.coconut": "%1$s was bonked in the head by a falling Coconut",
+  "subtitle.dtfish_of_thieves.falling_fruit.bonk": "Player bonked by fruit",
+
+  "block.dtfish_of_thieves.coconut_branch": "Coconut Tree",
+  "block.dtfish_of_thieves.banana_branch": "Banana Tree",
+  "item.dtfish_of_thieves.coconut_seed": "Coconut Seed",
+  "item.dtfish_of_thieves.banana_seed": "Banana Seed",
+  "item.dtfish_of_thieves.mango_seed": "Mango Pit",
+  "species.dtfish_of_thieves.coconut": "Coconut",
+  "species.dtfish_of_thieves.banana": "Banana",
+  "species.dtfish_of_thieves.mango": "Mango"
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      { "model": "dtfish_of_thieves:block/saplings/banana" },
+      { "model": "dtfish_of_thieves:block/saplings/banana", "y": 90 },
+      { "model": "dtfish_of_thieves:block/saplings/banana", "y": 180 },
+      { "model": "dtfish_of_thieves:block/saplings/banana", "y": 270 }
+    ]
+  }
+}

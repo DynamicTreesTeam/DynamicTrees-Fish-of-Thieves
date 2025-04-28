@@ -1,0 +1,31 @@
+[
+  {
+    "select": {
+      "tags": ["#minecraft:is_beach", "#minecraft:is_overworld"]
+    },
+    "apply": {
+      "species" : "dtfish_of_thieves:coconut",
+      "density": [ 0.1 ],
+      "chance": 0.3,
+      "forestness" : 0.2
+    }
+  },
+  {
+    "select": {
+      "name": "fishofthieves:tropical_island"
+    },
+    "apply": {
+      "species" : {
+        "random" : {
+          "dtfish_of_thieves:banana" : 1,
+          "dtfish_of_thieves:mango" : 2,
+          "jungle" : 5,
+          "cocoa" : 1
+        }
+      },
+      "density": [ 4.5 ],
+      "chance": 1.0,
+      "forestness" : 0.5
+    }
+  }
+]

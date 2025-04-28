@@ -1,0 +1,9 @@
+{
+  "item_stack": "fishofthieves:mango",
+  "max_age": 2,
+  "block_shapes": [
+    { "function": "fruit", "parameters": { "radius": 1.5, "height": 9, "stem_length": 0, "fraction": 16 } },
+    { "function": "fruit", "parameters": { "radius": 2.5, "height": 11, "stem_length": 0, "fraction": 16 } },
+    { "function": "fruit", "parameters": { "radius": 3.1, "height": 13.8, "stem_length": 0 } }
+  ]
+}
