@@ -1,15 +1,15 @@
 license="MIT"
 modLoader="javafml"
 loaderVersion="[47,)"
-issueTrackerURL="https://github.com/Groupix05/DynamicTrees-Generator/issues"
+issueTrackerURL="https://github.com/Groupix05/DynamicTrees-Fish-of-Thieves/issues"
 
 [[mods]]
 modId="dtfish_of_thieves"
 version="${file.jarVersion}"
 displayName="Dynamic Trees for Fish of Thieves"
-displayURL="https://www.curseforge.com/minecraft/mc-mods/dynamictrees"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-fish-of-thieves"
 logoFile="logo.png"
-credits=""
+credits="Max Hyper"
 authors="Groupix05"
 description='''
 Adds Dynamic Trees compatibility for Fish of Thieves.
