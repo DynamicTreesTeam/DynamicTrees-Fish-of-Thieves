@@ -2,13 +2,14 @@
   "type": "dynamictrees:palm",
   "primitive_leaves": "fishofthieves:banana_leaves",
   "cell_kit": "dynamictrees:palm",
-  "color": "#59C93C",
+  "color": "#8BBA28",
   "frond_model_loader": "dynamictrees:medium_palm_fronds",
   "texture_overrides": {
     "frond": "dtfish_of_thieves:block/palm_leaves/banana_frond",
-    "core_bottom": "dtfish_of_thieves:block/palm_leaves/banana_base"
+    "core_bottom": "dtfish_of_thieves:block/palm_leaves/banana_base",
+    "leaves": "fishofthieves:block/banana_leaves_tail"
   },
   "model_overrides": {
-    "core_bottom": "dtfish_of_thieves:block/smartmodel/banana_core_bottom"
+    "core_bottom": "dtfish_of_thieves:block/palm_leaves/banana_core_bottom"
   }
 }

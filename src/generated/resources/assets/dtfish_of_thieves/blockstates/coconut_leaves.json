@@ -26,7 +26,7 @@
     },
     {
       "apply": {
-        "model": "minecraft:block/jungle_leaves"
+        "model": "fishofthieves:block/coconut_fronds"
       },
       "when": {
         "OR": [

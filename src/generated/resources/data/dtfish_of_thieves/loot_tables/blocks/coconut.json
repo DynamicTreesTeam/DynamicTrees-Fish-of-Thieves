@@ -11,7 +11,7 @@
               "block": "dtfish_of_thieves:coconut",
               "condition": "minecraft:block_state_property",
               "properties": {
-                "age": "3"
+                "age": "2"
               }
             }
           ],
@@ -20,7 +20,7 @@
               "function": "minecraft:explosion_decay"
             }
           ],
-          "name": "dtfish_of_thieves:coconut_seed"
+          "name": "fishofthieves:coconut"
         }
       ],
       "rolls": 1.0

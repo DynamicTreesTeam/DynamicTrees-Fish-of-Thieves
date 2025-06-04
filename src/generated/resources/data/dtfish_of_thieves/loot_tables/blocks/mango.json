@@ -11,7 +11,7 @@
               "block": "dtfish_of_thieves:mango",
               "condition": "minecraft:block_state_property",
               "properties": {
-                "age": "3"
+                "age": "2"
               }
             }
           ],

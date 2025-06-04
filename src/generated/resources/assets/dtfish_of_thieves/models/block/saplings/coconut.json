@@ -2,7 +2,7 @@
   "parent": "dynamictrees:block/smartmodel/sapling",
   "render_type": "minecraft:cutout_mipped",
   "textures": {
-    "leaves": "minecraft:block/jungle_leaves",
-    "log": "minecraft:block/oak_log"
+    "leaves": "fishofthieves:block/coconut_fronds_tail",
+    "log": "fishofthieves:block/coconut_log"
   }
 }

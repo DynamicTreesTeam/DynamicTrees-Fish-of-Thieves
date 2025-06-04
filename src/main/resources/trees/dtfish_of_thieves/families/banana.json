@@ -5,5 +5,9 @@
   "generate_stripped_branch": false,
   "max_branch_radius": 6,
   "primary_thickness": 3,
-  "secondary_thickness": 3
+  "secondary_thickness": 3,
+  "texture_overrides": {
+    "branch": "fishofthieves:block/banana_log",
+    "branch_top": "fishofthieves:block/banana_log_top"
+  }
 }

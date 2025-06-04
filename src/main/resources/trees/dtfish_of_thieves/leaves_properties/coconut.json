@@ -1,10 +1,11 @@
 {
   "type": "dynamictrees:palm",
-  "primitive_leaves": "minecraft:jungle_leaves",
+  "primitive_leaves": "fishofthieves:coconut_fronds",
   "cell_kit": "dynamictrees:palm",
   "frond_model_loader": "dynamictrees:large_palm_fronds",
   "texture_overrides": {
     "frond": "dtfish_of_thieves:block/palm_leaves/coconut_frond",
-    "core_bottom": "dtfish_of_thieves:block/palm_leaves/coconut_base"
+    "core_bottom": "dtfish_of_thieves:block/palm_leaves/coconut_base",
+    "leaves": "fishofthieves:block/coconut_fronds_tail"
   }
 }

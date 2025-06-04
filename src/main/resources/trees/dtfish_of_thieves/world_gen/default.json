@@ -6,8 +6,7 @@
     "apply": {
       "species" : "dtfish_of_thieves:coconut",
       "density": [ 0.1 ],
-      "chance": 0.3,
-      "forestness" : 0.2
+      "chance": 0.2
     }
   },
   {
@@ -23,8 +22,8 @@
           "cocoa" : 1
         }
       },
-      "density": [ 4.5 ],
-      "chance": 1.0,
+      "density": [ 4 ],
+      "chance": 0.9,
       "forestness" : 0.5
     }
   }
