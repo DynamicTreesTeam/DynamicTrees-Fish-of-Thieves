@@ -1,0 +1,13 @@
+{
+  "death.attack.dtfish_of_thieves.falling_fruit.coconut": "%1$s a reçu une noix de coco sur la tête",
+  "subtitle.dtfish_of_thieves.falling_fruit.bonk": "Le joueur a été assommé par un fruit",
+
+  "block.dtfish_of_thieves.coconut_branch": "Cocotier",
+  "block.dtfish_of_thieves.banana_branch": "Bananier",
+  "item.dtfish_of_thieves.coconut_seed": "Noix de coco",
+  "item.dtfish_of_thieves.banana_seed": "Graine de bananier",
+  "item.dtfish_of_thieves.mango_seed": "Noyau de mangue",
+  "species.dtfish_of_thieves.coconut": "Cocotier",
+  "species.dtfish_of_thieves.banana": "Bananier",
+  "species.dtfish_of_thieves.mango": "Manguier"
+}
